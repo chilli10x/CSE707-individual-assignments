@@ -1,0 +1,5 @@
+1. Completed course on "Essential Google Cloud Infrastructure: Foundation" at coursera.org 
+Certificate at https://coursera.org/share/10192166540399be408fbae9fb3499d9
+
+2. Parallel Programming in Rust
+Github repository: 
